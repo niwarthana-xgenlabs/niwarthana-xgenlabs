@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niwarthana-xgenlabs
 &show_icons=true&theme=radical)
@@ -16,4 +16,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=niwarthana-xgenlabs
 &theme=onedark&row=1&column=6)
 
--->
+
